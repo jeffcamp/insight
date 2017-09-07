@@ -1,3 +1,0 @@
-testing merging from the remote repository back into the origin locally
-
-this is sept 7th at 11:28
